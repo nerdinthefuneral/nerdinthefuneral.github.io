@@ -1,2 +1,0 @@
-# nerdinthefuneral.github.io
-usersite
